@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "name": "Neha",
+    "readOnly": true
+  },
+  {
+    "id": 2,
+    "name": "Raj",
+    "readOnly": false
+  },
+  {
+    "id": 3,
+    "name": "Chris",
+    "readOnly": false
+  },
+  {
+    "id": 4,
+    "name": "Sara",
+    "readOnly": true
+  },
+  {
+    "id": 5,
+    "name": "Anya",
+    "readOnly": false
+  },
+  {
+    "id": 6,
+    "name": "Samuel",
+    "readOnly": true
+  },
+  {
+    "id": 7,
+    "name": "Hannah",
+    "readOnly": false
+  },
+  {
+    "id": 8,
+    "name": "Sophia",
+    "readOnly": true
+  },
+  {
+    "id": 9,
+    "name": "Lily",
+    "readOnly": false
+  },
+  {
+    "id": 10,
+    "name": "Emma",
+    "readOnly": true
+  }
+]
